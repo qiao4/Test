@@ -1,5 +1,5 @@
 # Test
 
-```java 
+```java
 String test = "";
 ```
